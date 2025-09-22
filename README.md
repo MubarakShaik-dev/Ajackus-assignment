@@ -18,7 +18,7 @@ Follow these steps to get the application running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/MubarakShaik-dev/Ajackus-assignment.git
     ```
 
 2.  **Navigate to the project directory:**
